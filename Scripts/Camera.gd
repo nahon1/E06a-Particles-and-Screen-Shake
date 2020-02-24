@@ -31,3 +31,5 @@ func _apply_shake():
  
 func _get_neg_or_pos_scalar():
 	return rand_range(-1.0, 1.0)
+	
+	
